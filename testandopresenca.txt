@@ -1,0 +1,12 @@
+exercícios oo
+a-git init- usado na inicialização para criação de um novo repositório, cria um novo subdiretório .git.
+b-git clone-usado para obter uma cópia de um repositório existente, tendo os arquivos nele existentes.
+c-git branch-para poder listar as branchs existentes que estão no repositório.
+d-git checkout-esse comando permite navegar entre as branches criados pelo git branch, pode ser usada também para alterar para uma branch específica.
+e-git fetch-usado para buscar mudanças mais recentes da branch atual armazenadas no repositório remoto(pode ser usado para baixar todos os commits do repositório remoto sem afetar o seu código local).
+f-git pull-usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local.
+g-git add-para adicionar novos arquivos,ele adiciona uma alteração no diretório ativo à área de staging.
+h-git commit-pode ser utilizado de múltiplas formas para comitar as alterações para o repositório, so "git commit" abrirá o editor de texto padrão para adicionar a mensagem do commit.
+i-git push-usado para enviar conteúdo do repositório local para um repositório remoto.
+
+2-O comando git fetch pode ser usado para baixar todos os commits do repositório remoto sem afetar o seu código local, já o git pull faz as atualizações imediatas ao repositório local.
